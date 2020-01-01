@@ -1,10 +1,10 @@
 # CopyLeftPress Project Log
 
-2020-0101  Lights on at github, redirect URL
+2020-0101  Lights on at github redirect URL
 
            Email:CopyLeftPress@yandex.com
 	
-           Social Media Accounts 
+           Social Media Accounts are:
 	
-           (Twitter CopyLeftPress(main)  and TMWCLP (admin))
+           @CopyLeftPress(main)  and  @TMWCLP (admin)
           
