@@ -1,4 +1,4 @@
-# CopyLeftPress 
+# CopyLeft.Press 
 
 Project Log
 
